@@ -20,8 +20,6 @@ Instructions:
   corrsponding change in the route of `oauth_redirect` function.
 * To run: `python mchimp.py`
 
-To run:
-
 LICENSE:
 --------
 

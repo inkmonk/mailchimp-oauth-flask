@@ -15,6 +15,7 @@ Requires:
 Instructions:
 -------------
 
+* Put your OAuth client id and secret key in `mchimp.py`.
 * Change the `REDIRECT_URI` in `mchimp.py` to the desired one
   according to your requirements. Make sure then you also make the
   corrsponding change in the route of `oauth_redirect` function.
